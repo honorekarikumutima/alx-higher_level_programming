@@ -1,1 +1,1 @@
-Sprint 2 High Level Programming
+High level programming

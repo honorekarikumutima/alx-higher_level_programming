@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-
-"""A module that models a Rectangle"""
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
-    """Models a Rectangle"""
-
+    """Represent a rectangle."""
     pass

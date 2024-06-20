@@ -1,3 +1,2 @@
-# Python - Everything is an object
+python-everything_is_object.
 
-Solutions to project **0x09-python-everything_is_object** tasks
